@@ -1,0 +1,11 @@
+Rank,Student ID,Name,Marks Obtained,Total Marks,Percentage (%),Grade
+1,S001,Maryam Tariq,16,16,100.0,A+
+2,S007,Sara Nawaz,16,16,100.0,A+
+3,S005,Zainab Raza,15,16,93.75,A+
+4,S008,Hassan Ali,13,16,81.25,A
+5,S010,Bilal Akhtar,13,16,81.25,A
+6,S002,Ali Hassan,12,16,75.0,B
+7,S003,Fatima Malik,12,16,75.0,B
+8,S009,Noor Fatima,12,16,75.0,B
+9,S004,Usman Khan,11,16,68.75,C
+10,S006,Ahmed Siddiqui,0,16,0.0,F

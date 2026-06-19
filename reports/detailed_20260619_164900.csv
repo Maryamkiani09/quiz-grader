@@ -1,0 +1,11 @@
+Student ID,Name,Q1 Answer,Q1 Correct?,Q1 Marks,Q2 Answer,Q2 Correct?,Q2 Marks,Q3 Answer,Q3 Correct?,Q3 Marks,Q4 Answer,Q4 Correct?,Q4 Marks,Q5 Answer,Q5 Correct?,Q5 Marks,Q6 Answer,Q6 Correct?,Q6 Marks,Q7 Answer,Q7 Correct?,Q7 Marks,Q8 Answer,Q8 Correct?,Q8 Marks,Q9 Answer,Q9 Correct?,Q9 Marks,Q10 Answer,Q10 Correct?,Q10 Marks,Total Obtained,Total Possible,Percentage,Grade
+S001,Maryam Tariq,A,✓,2,C,✓,2,B,✓,1,D,✓,2,A,✓,1,C,✓,2,B,✓,1,D,✓,2,A,✓,2,C,✓,1,16,16,100.0,A+
+S002,Ali Hassan,A,✓,2,A,✗,0,B,✓,1,D,✓,2,A,✓,1,C,✓,2,B,✓,1,A,✗,0,A,✓,2,C,✓,1,12,16,75.0,B
+S003,Fatima Malik,B,✗,0,C,✓,2,B,✓,1,D,✓,2,B,✗,0,C,✓,2,A,✗,0,D,✓,2,A,✓,2,C,✓,1,12,16,75.0,B
+S004,Usman Khan,A,✓,2,C,✓,2,A,✗,0,D,✓,2,A,✓,1,B,✗,0,B,✓,1,D,✓,2,C,✗,0,C,✓,1,11,16,68.75,C
+S005,Zainab Raza,A,✓,2,C,✓,2,B,✓,1,D,✓,2,A,✓,1,C,✓,2,B,✓,1,D,✓,2,A,✓,2,A,✗,0,15,16,93.75,A+
+S006,Ahmed Siddiqui,B,✗,0,A,✗,0,A,✗,0,C,✗,0,B,✗,0,A,✗,0,A,✗,0,C,✗,0,B,✗,0,B,✗,0,0,16,0.0,F
+S007,Sara Nawaz,A,✓,2,C,✓,2,B,✓,1,D,✓,2,A,✓,1,C,✓,2,B,✓,1,D,✓,2,A,✓,2,C,✓,1,16,16,100.0,A+
+S008,Hassan Ali,A,✓,2,C,✓,2,B,✓,1,A,✗,0,A,✓,1,C,✓,2,A,✗,0,D,✓,2,A,✓,2,C,✓,1,13,16,81.25,A
+S009,Noor Fatima,C,✗,0,C,✓,2,B,✓,1,D,✓,2,A,✓,1,C,✓,2,B,✓,1,D,✓,2,B,✗,0,C,✓,1,12,16,75.0,B
+S010,Bilal Akhtar,A,✓,2,B,✗,0,B,✓,1,D,✓,2,C,✗,0,C,✓,2,B,✓,1,D,✓,2,A,✓,2,C,✓,1,13,16,81.25,A
